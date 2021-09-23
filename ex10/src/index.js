@@ -2,5 +2,5 @@
 
 // Only change code above this line
 
-console.log(myBouncer());
-module.exports = myBouncer;
+console.log(mySplice());
+module.exports = mySplice;
